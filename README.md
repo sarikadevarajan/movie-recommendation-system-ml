@@ -76,3 +76,9 @@ The application includes:
 
 ---
 
+# 🌐 Live Demo
+
+🚀 Try the deployed app here:
+
+[Movie Recommendation System](https://movie-recommendation-system-ml-x82hvnu2ygaokgqqgzv7fj.streamlit.app/)
+
